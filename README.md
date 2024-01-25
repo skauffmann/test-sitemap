@@ -45,7 +45,3 @@ The application will output:
 - An 'x' for each URL that fails the test.
 - A summary of inaccessible URLs along with their HTTP status codes.
 - The total count of URLs tested, inaccessible URLs, and successfully accessed URLs.
-
-## License
-
-[Your chosen license]
